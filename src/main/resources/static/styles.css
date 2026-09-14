@@ -1,0 +1,52 @@
+body {
+    font-family: Arial;
+    background-color: darkslateblue;
+    color: black;
+    margin: 35px;
+
+}
+
+main {
+    padding: 25px;
+}
+
+h1 {
+    color: black;
+    font-family: "Arial Black";
+}
+
+img {
+    border-radius: 50%;
+    float: inline-start;
+    margin-right: 10px;
+    margin-top: 40px;
+}
+
+a {
+    color: white;
+}
+
+.header-contenido {
+    margin-left: 130px;
+}
+
+
+.h2-contenido {
+    color: white;
+    font-family: "Arial Black";
+    border-bottom: 2px solid white;
+}
+
+.ul-color {
+    color: black;
+}
+
+.ul-hobbies {
+    color: black;
+
+}
+
+
+
+
+
