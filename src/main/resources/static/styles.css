@@ -43,6 +43,14 @@ a {
 
 .ul-hobbies {
     color: black;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px
+}
+
+.imagenHobbie{
+    width: 400px;
+    height: 400px;
 
 }
 
